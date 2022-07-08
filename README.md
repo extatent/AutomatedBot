@@ -20,6 +20,15 @@ A program to automate SubPals, YTpals and SoNuker services work. Get subscribers
 <img src="https://i.imgur.com/ylK2urU.png" alt="png">
 </details>
 
+## Usage
+1. Open the program
+
+2. Enter your YouTube channel URL/ID and the password you've registered to the services
+
+3. Choose one of the services
+
+4. Wait until you see a message that indicates the work is finished.
+
 ## Installation 
 
 #### Compiled version
